@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Name's Connor, I'm currently studying Computer Science and Game Development at Northeastern University.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumio7&show_icons=true&theme=tokyonight)

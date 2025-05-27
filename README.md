@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Name's Connor, I'm currently studying Computer Science and Game Development at Northeastern University.
+Name's Connor, I'm a Game Designer and Programmer.
 
 ---
 

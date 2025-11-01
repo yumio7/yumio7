@@ -30,11 +30,5 @@ Name's Connor, I'm a Game Designer and Programmer.
 
 ---
 
-### Current Projects
-
-I'm a designer and developer on the team behind <a href="https://gensokyoreimagined.net"> Gensokyo Reimagined</a>, a project aiming to create an mmo experience in minecraft based off Touhou Project.
-
----
-
 #### life is boundlessly fruitful
 <img src=https://github.com/yumio7/yumio7/assets/67013996/1b5a0189-0cd9-4014-9aba-8b01bb620463 width=200>

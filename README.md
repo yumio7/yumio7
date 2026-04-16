@@ -31,4 +31,4 @@ Name's Connor, I'm a Game Designer and Programmer.
 ---
 
 #### life is boundlessly fruitful
-<img src=https://github.com/yumio7/yumio7/assets/67013996/1b5a0189-0cd9-4014-9aba-8b01bb620463 width=200>
+<img src=https://github.com/user-attachments/assets/492a8904-b66a-4a95-b889-daf2de8e8e1c width=200>

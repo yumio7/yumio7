@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Name's Connor, I'm a Game Designer and Programmer.
+Name's Connor, I'm a System's Engineer and Game Designer.
 
 ---
 
